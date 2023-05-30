@@ -1,5 +1,6 @@
 # phase-variation-in-Mtbc
-This repository contains the Jupyter Notebooks used in data processing and analysis for the article "Phase variation as a major mechanism of adaptation in Mycobacterium tuberculosis complex" (Vargas et al. 2023, PNAS in-press).
+This repository contains the Jupyter Notebooks used in data processing and analysis for the article "Phase variation as a major mechanism of adaptation in Mycobacterium tuberculosis complex" (Vargas et al. 2023, PNAS in-press). [![DOI](https://zenodo.org/badge/647319125.svg)](https://zenodo.org/badge/latestdoi/647319125)
+
 
 Notebooks were run in order from top to bottom as listed below. Most code was written in Python 2 and running code within these notebooks requires installing the necessary python packages, bioinformatics pipelines & changing the directory paths within the notebooks.
 
